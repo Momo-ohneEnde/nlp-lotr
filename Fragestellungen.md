@@ -10,7 +10,7 @@ Charakterentwicklung der Personen mithilfe von Sentiment Analysis nachvollziehen
 Wordclouds für Sprechertext der Personen -> Über welche Themen sprechen die Personen?
 
 # Wer ist die Hauptperson?
-* 	am häufigsten erwähnt
+* am häufigsten erwähnt
 * am meisten spricht
 * größte charakterliche Entwicklung
 	* häufige Wechsel zwischen positiv und negativ
