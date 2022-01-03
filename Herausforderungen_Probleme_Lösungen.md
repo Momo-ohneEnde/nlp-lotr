@@ -18,7 +18,7 @@
 * Übersetzte Passagen übernehmen, aber elbischen Text löschen
 
 ### 4. Durch ... getrennte Sätze zusammenführen
-nur in Dialogtexten möglich
+nur in Dialogtexten möglich: Auslassungspunkte werden zunächst in den Tabellen beibehalten, dann aber später über eine Hilfsfunktion gelöscht
 
 in Regieanweisungstexten: unmöglich automatisiert herauszufinden, ob die Auslassungspunkte innerhalb eines Satzes stehen (und somit durch ein Leerzeichen ersetzt werden müssen) oder einen Satz abschließen (also durch einen Punkt ersetzt werden müssen)
 
