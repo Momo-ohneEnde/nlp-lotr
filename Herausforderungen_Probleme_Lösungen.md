@@ -8,6 +8,9 @@
 * Skripte 1 und 3: viel überflüssige Texte dabei (Seitenzahlen, Continued-Angaben, Kamerapositionen etc.) -> müssen gelöscht werden, aber sehr schwer alle automatisiert ausfindig zu machen, weil a) nicht alle vor einem Doppelpunkt stehen b) viele verschiedene Schreibweisen für dieselbe Anweisung verwendet werden z.B. Slow motion, SLOW MOTION und c) es sehr viele verschiedene Kamera-Anweisungen gibt
 * Skripte 1 und 3: Großschreibung z.T. zur Hervorhebung von Namen, wichtigen Passagen etc. verwendet
 * Skripte 1 und 3: Auslassungspunkte (...) werden sehr häufig verwendet, aber nicht einheitlich. Manchmal stehen sie mitten in einem Satz, machmal ersetzen sie am Ende eines Satzes den Punkt. Zusätzlich werden verschiedene Varianten von Auslassungspunkten verwendet und eine unterschiedliche Anzahl von Punkten. Keine einheitliche Lösung möglich. Lösungsansatz: Auslassungspunkte innerhalb eines Blocks/einer Zelle durch Leerzeichen ersetzen. Auslassungspunkte am Anfang oder Ende eines Blocks/einer Zelle durch einen Punkt ersetzen.
+* Skript 2: Regieanweisungen stehen in eckigen Klammern, allerdings manchmal als eigene Zeile (mit "Regie/Sprechertext" gekennzeichnet) und manchmal innerhalb vom gesprochenen Text
+* Skript 2: Manchmal mehrere Regieanweisungen innerhalb eines Sprechertext (z. B. "blablabla [Regieanweisung] blabla [Regieanweisung] blabla"), die alle mit Regexausdrücken herausgefiltert werden mussten
+* Skript 2: Ganz selten auch Verschachtelung von eckigen und runden Klammern -> runde Klammern wurden davor entfernt
 
 ### 2. Encoding-Fehler und andere Fehler auf Zeichenebene
 * willkürlich Leerzeichen zwischen Worten, Bsp: "PIPPIN has jumped off his ho rse an d pi cke d u p -- th e PA LAN TIR" -> manche können über gezieltes ersetzen abgefangen werden, aber nicht alle
