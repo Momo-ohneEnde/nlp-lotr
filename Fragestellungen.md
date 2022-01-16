@@ -4,10 +4,10 @@ Sentiment-Analysis:
 3) pro Person
 
 # Basic Stats (für alle Personen)
-Sprechanteile der Personen -> Wer redet viel/wenig?
-Häufigkeit der Nennung von Personennamen in Text und Regie
-Charakterentwicklung der Personen mithilfe von Sentiment Analysis nachvollziehen
-Wordclouds für Sprechertext der Personen -> Über welche Themen sprechen die Personen?
+* Sprechanteile der Personen -> Wer redet viel/wenig?
+* Häufigkeit der Nennung von Personennamen in Text und Regie
+* Charakterentwicklung der Personen mithilfe von Sentiment Analysis nachvollziehen
+* Wordclouds für Sprechertext der Personen -> Über welche Themen sprechen die Personen?
 
 # Wer ist die Hauptperson?
 * am häufigsten erwähnt

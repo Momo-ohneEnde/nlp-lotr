@@ -21,14 +21,16 @@
 * Übersetzte Passagen übernehmen, aber elbischen Text löschen
 
 ### 4. Durch ... getrennte Sätze zusammenführen
-nur in Dialogtexten möglich: Auslassungspunkte werden zunächst in den Tabellen beibehalten, dann aber später über eine Hilfsfunktion gelöscht
+* nur in Dialogtexten möglich: Auslassungspunkte werden zunächst in den Tabellen beibehalten, dann aber später über eine Hilfsfunktion gelöscht
 
-in Regieanweisungstexten: unmöglich automatisiert herauszufinden, ob die Auslassungspunkte innerhalb eines Satzes stehen (und somit durch ein Leerzeichen ersetzt werden müssen) oder einen Satz abschließen (also durch einen Punkt ersetzt werden müssen)
+* in Regieanweisungstexten: unmöglich automatisiert herauszufinden, ob die Auslassungspunkte innerhalb eines Satzes stehen (und somit durch ein Leerzeichen ersetzt werden müssen) oder einen Satz abschließen (also durch einen Punkt ersetzt werden müssen)
+
+### 5. Sonstiges
+
+* text lowern, da ansonsten Namen etc. nicht erkannt werden (Frodo/FRODO/Frodo!/Frodo? -> frodo)
 
 ## NLP Analyse
 
 ### 1. Deskriptive Statistiken
 
-* *(Eigentlich auch Datenbereinigung...)* Wordclouds: Einzelne Buchstaben ("s", "t", "m", "re") werden als eigene Wörter dargestellt, sind aber Überbleibsel von "haven't", "I'm", "your're", "he's", "Gandalf's" etc. -> Lösungsmöglichkeiten:
-    * a) Mit re.sub ersetzen (z. B. "he is" statt "he's"). Müsste man aber theoretisch von Fall zu Fall unterschiedlich lösen, könnte aufwendig werden
-    * b) Stopword-Liste der Wordcloud um "s", "t" usw. erweitern
+* *(Eigentlich auch Datenbereinigung...)* Wordclouds: Einzelne Buchstaben ("s", "t", "m", "re") werden als eigene Wörter dargestellt, sind aber Überbleibsel von "haven't", "I'm", "your're", "he's", "Gandalf's" etc. -> Lösung: Apostrophe in Excel-Datei ersetzt :)
