@@ -14,6 +14,22 @@
 
 ### 1.2 Bar plots
 
-* Über Frodo wird bei weitem am häufigsten gesprochen bzw. er am häufigsten erwähnt. Gründe:
-    * Hauptperson und Ringträger, die lange Zeit nur mit Sam (und Gollum) unterwegs ist und relativ viel screen time hat. Das bedeutet 1., dass alle anderen Charaktere ihn häufig erwähnen, wenn sie über seine Lage nachdenken, und Sam ihn häufig direkt anspricht, und 2., dass die viele Bildschirmzeit viele Regieanweisungen benötigt, die über die Gesprächslücken hinweghilft (da könnte man mal unterscheiden, wie das verhältnis zwischen stage directions und speech ist...?)
-* Vllt ebenfalls interessant: Verhältnis zwischen word count und mentions (welche Person spricht z. B. wenig, wird aber häufiger erwähnt, denke da an Saruman oder Sauron) -> Könnte man mit einer Formel berechnen
+* Über Frodo wird bei weitem am häufigsten gesprochen bzw. er wird am häufigsten erwähnt. Gründe:
+    * Hauptperson und Ringträger, die lange Zeit nur mit Sam (und Gollum) unterwegs ist und relativ viel screen time hat. Das bedeutet:
+         1. dass alle anderen Charaktere ihn häufig erwähnen, wenn sie über seine Lage nachdenken, und Sam ihn häufig direkt anspricht, 
+         2. dass die viele Bildschirmzeit viele Regieanweisungen benötigt, die über die Gesprächslücken hinweghilft
+
+*  Verhältnis der Erwähnungen von Charakteren in Regieanweisungen und im Dialog
+    * Frodo wird sowohl in Regieanweisungen als auch im Dialog am häufigsten erwähnt.
+    * !!! Sauron wird im Dialog am zweithäufgsten erwähnt, in den Regieanweisungen jedoch fast nie !!!
+    * Bei Gandalf halten sich die Erwähnungen in Regie und Dialog die Waage.
+    * Theoden, Saruman und Smeagol werden im Dialog häufiger erwähnt als in den Regieanweisungen.
+    * Sam, Aragorn und Pippin werden in den Regieanweisungen häufiger erwähnt als im Dialog.
+
+### 1.3 Scatter Plots
+## Mentions vs. Word Count
+Interpretation:
+* Über Frodo wird zwar viel gesprochen, aber er selbst sagt nicht so viel.
+* Gandalf spricht zwar sehr viel, wird aber nicht so häufig erwähnt.
+* Aragorn und Sam liegen sowohl bei den Mentions als auch bei den Word Counts im Mittelfeld.
+* Alle anderen reden nicht so viel und werden auch nicht so viel erwähnt.
