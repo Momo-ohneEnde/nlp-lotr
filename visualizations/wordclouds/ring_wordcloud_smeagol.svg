@@ -1,0 +1,187 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="543">
+<style>@font-face{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;src:url("data:application/font-woff;charset=utf-8;base64,d09GRgABAAAAAAmEAAsAAAAAC7AAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAABPUy8yAAABeAAAAFYAAABgfV92PGNtYXAAAAIIAAAANQAAAEQAoQEKZ2FzcAAACXgAAAAMAAAADAAEAAdnbHlmAAACeAAABhoAAAfO/HmFaGhlYWQAAAEIAAAANgAAADYDyi9TaGhlYQAAAUAAAAAgAAAAJAw9AuhobXR4AAAB0AAAADYAAAA2DdkHOmxvY2EAAAJAAAAANgAAADYapRjebWF4cAAAAWAAAAAYAAAAIAAeADhuYW1lAAAIlAAAAMsAAAFoHBo1AHBvc3QAAAlgAAAAFgAAACD/aQBnAAEAAAABAACg7PhlXw889QALCAAAAAAAwcfpVAAAAADeFfzO//z+FATRBh8AAAAJAAIAAAAAAAB4nGNgZGBgz/0ny8DAcvb/n/9/WC4yAEVQACMArNsHL3icY2BkYGCQYjBnYGYAAUYGNAAACLIAV3icY2BmOcs4gYGVgYN1FqsxAwOjHIRmvsCQxviJgYGJm42TmYOFiYmFASjJgAQMHYOdGRwY1Bkq2eT/iTC0sOcyPlZgYJwPkmPxYt0GpBQYGABSSAyEAAAEzQDBAfAAhwCeAKwAiQCFAJwAZgCgAMUAhwDXALwAXACgAHMAngCJAQgAywCLAKAAUv/8AFIAAHicY2BgYGJgYGAGYhEgyQimWRgMgDQHEILk1BnKGSr//wezEkGs/7f+L/y/AKwWDADrgwulAAAAAAAAAAAPAEMAcwCZAMoA9gEbAWkBiQGsAdMB9AILAjsCWQKCArMC5AMCAzEDVANzA44DvgPnAAB4nFVVC0xTZxT+z72X2w6J9NLXDBood6VhSBwtpcMNHFMTVjVzBJEZZxgCPlh8gNNgY5CZgqxbHIJIRB2vMBMdPsJuxkQnqfgiaogyjYtjjqlxYUocZj64vzt/W5Ul9BYSzne+853zfZcAjPId3M0whfCEAC/z3M2EpoQwRR3ldIRwpPr5iMAJy4iZWAix2GRRlOPinTqry5kix2lsqQ67ySjxGlE0Ghz2VCdfYdUuaN3a1g20f6zuh1mnjw/3d7Webj9Xd7jx03mHmmC+TjN3JLsmv/OUquOmaLQla4611WOf/dhnjmggUWQqIVZZI0sOyaBxIH6UpOPkON5gcsRKOkucCDkRVq+i1ZZcO3/7zrnLZb5G0NH7TVU+n2ig2z+qbaeDdIw+pFe4d4Z7oQP29+Bg5BDiW3EOPf6hiZcZlN1lFOVYIumIxS5YMxo20q9h1b72Kj99Tv+EONAcE+T9aXQ5XZ3RnA4y6GAKxDNNahBrRoDrNMYVFeEkXZTDbnbEO5G2zDtTQh1S+Urt+gHG89KGiAilTvY10lGIavTWfQeJEAGTIam50gJdT0bgacJwL11CC46yDl7skIVsJWJCvpaoINc4xhUFMVotOkuskDX+VAsL/Yc7zjyiNyBy+Ko6Trl0Okr/5jhaM795HrYQIRxcdGxIhmSmwl5ChCViDDEyVEmWLE6rMwU1NqMkcaLRaBEM1KNQP6R3DVR6Elau8OSBl+8dn8X3rrHk93bKO6YWlq0keCvF1CAUI8M3yHSSimhGjcloQIo2dgjsKHBV8c4UV+ATH2zC29nRGA3AHpZYVEkoPp05eNIVU9hyvPNHtf/G8Gi+9+Piwb7c9/YM3boFc3vuQCT4CgX3+uhFW1t+Ft9ekLNnB61uqb06c0bJuoXWg0VKn0HtufPg4TCNONM5lJfOpmzGKZNwPxJerKTDTUjsmtgx4a/8pvv0oqJow1fcAy/nB4GWqmfxcuzfHKBrVQdTvw/rHeJkosUNE7AH5nKm6K1OixRmRMm48tWzEksi6T/gh/zxnZAnTi6dmVZWqh4yesbnGjweQ8A51MDnIooGvRNAYSDgNDGbSAyLwXJ3S0pW0/Cqps+30aXckj8utSNWWVnp44Q9ttIiIc3oeZbZ5ceZriEnPHAyGbFc4AC8R01gLB4qqsH3G43iwgdpbmVXl45LaIQaalVr4XE2XSIa1FQ6hAhoAyEREV5DhFejGOhYYIpayAvzGjc/9QToA1mK/12G+41lGqYErgPb6ULfDjNzZuDB7D/gzFj8YcuWnKzWiujw2VVtdnH+jq0bOP/O0g6/2spE/vaBelZw1x9QlO7rKHJoR4ivm7gj88QV1UX/b0WsOrAgjpShO/KwdhJzc1jIFexpY6bDD1dwnd6DyDs3wETv/w6p9BztN6BsAmjgLXoB/f0vvbQb2qGZ5tOlLH3wmucgYsjRplczhtLHODF+0MjR2jVXJ8ZPo9dXaaGJYiqSfBE/hQnB/DkSyAzsMONFB3C4MCakFNer7NBPyIxybXSdEhERDA7WIZgZvFL/5AIMJlS+zA5178vQANCionJQUdDET1gUTiHIyZ6itqNKvUk7v7Nio5DckdR9WD0iuM9vKmaO6Q+lfAwhLrxQZk3bC9cyLBzfbAoavL/3KOgLjt4rH+o7c/BdpWakSLni++uXx8kdua1pOe8trl2+vcm9K8ub/kHmgl2fNRxEdB9DD1vLtmVlkSux3NE7JIsRTeCw8+NfbKYN9BFMWrAKFOo+9UnDl7GQx21Zlgwx9NcadZs/4GpESRLcAVfje4jBOCRdwE3ogj3R4atu03JlpKVewXCt5S6q6XS8+yo385nCqrNRnXKsnoTV4NCbUBe9Hm30kOb3jC6KFDXLHpyg+YJb3XB32XSYwn2FZfB8HKsGsGoKVvH4csSfYK1L//Kb55O2zREzq08MtRbEmcUYq7e3IvF1MWZa8f5bXA646TEmtHrrp8vd33Pvqyf9bQ93czEhVngVjBWmPJIJAQJ7x9oCQeFyZfeAmK0RzbORnnX2sX252Rnu/JI3ZyJi6cVF67qQqK3zsFQbkV3YQP4Dn4tspQAAeJx9jkEOwVAURQ+KmFiAgfwFIIrEWEiMTEgMzKqkmkgrxYAFWIFN2IkFWYDb70uMpLnNfe/dd94HqqwoUfBqwE76+AJNVR9fpM7N+RID7s57P5kyLZ7OV2jwYkJMJJ2kK1s2GClQHciFpBy4kNnUTl3DQ+rR1TcUzTBVJtV0r23DWD7TTv4PLDUloaM7mVxs+QtNEo5yMztNmWs34ixGoNxIs1CdROmtakNb+k9Y2uTR3TP4upm/0bAWNxZ5Y7s+/R/Sl+MobytSNTcAeJxjYGYAg/9pDGlAipEBDQAAKf4B0AAAAAAAAgAFAAL//wAD")format("woff");}</style>
+<style>text{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;}</style>
+<rect width="100%" height="100%" style="fill:white"></rect>
+<text transform="translate(290,453)" font-size="103" style="fill:rgb(37, 172, 130)">master</text>
+<text transform="translate(317,108)" font-size="94" style="fill:rgb(42, 118, 142)">smeagol</text>
+<text transform="translate(122,241)" font-size="82" style="fill:rgb(41, 123, 142)">us</text>
+<text transform="translate(210,143)" font-size="82" style="fill:rgb(31, 161, 136)">go</text>
+<text transform="translate(288,498)" font-size="57" style="fill:rgb(115, 208, 86)">precious</text>
+<text transform="translate(639,335)" font-size="57" style="fill:rgb(210, 226, 27)">yes</text>
+<text transform="translate(652,142)" font-size="55" style="fill:rgb(70, 51, 127)">come</text>
+<text transform="translate(189,444)" font-size="51" style="fill:rgb(32, 147, 140)">see</text>
+<text transform="translate(706,263)" font-size="51" style="fill:rgb(72, 193, 110)">way</text>
+<text transform="translate(325,145)" font-size="49" style="fill:rgb(71, 47, 125)">must</text>
+<text transform="translate(507,387)" font-size="45" style="fill:rgb(86, 198, 103)">hobbit</text>
+<text transform="translate(404,39)" font-size="42" style="fill:rgb(61, 188, 116)">now</text>
+<text transform="translate(702,450) rotate(-90)" font-size="42" style="fill:rgb(139, 214, 70)">nice</text>
+<text transform="translate(118,272)" font-size="39" style="fill:rgb(68, 2, 86)">look</text>
+<text transform="translate(365,526)" font-size="36" style="fill:rgb(186, 222, 40)">mordor</text>
+<text transform="translate(184,406)" font-size="36" style="fill:rgb(67, 62, 133)">back</text>
+<text transform="translate(111,292)" font-size="36" style="fill:rgb(221, 227, 24)">away</text>
+<text transform="translate(720,200)" font-size="36" style="fill:rgb(70, 7, 90)">hate</text>
+<text transform="translate(507,41)" font-size="36" style="fill:rgb(45, 113, 142)">fat</text>
+<text transform="translate(255,173)" font-size="36" style="fill:rgb(33, 166, 133)">stair</text>
+<text transform="translate(209,469)" font-size="33" style="fill:rgb(205, 225, 29)">gate</text>
+<text transform="translate(438,135)" font-size="33" style="fill:rgb(78, 195, 107)">wants</text>
+<text transform="translate(349,383)" font-size="30" style="fill:rgb(52, 182, 121)">always</text>
+<text transform="translate(155,181)" font-size="30" style="fill:rgb(53, 94, 141)">never</text>
+<text transform="translate(571,37)" font-size="30" style="fill:rgb(31, 162, 135)">nasty</text>
+<text transform="translate(706,362)" font-size="30" style="fill:rgb(60, 80, 139)">know</text>
+<text transform="translate(718,418) rotate(-90)" font-size="30" style="fill:rgb(42, 119, 142)">say</text>
+<text transform="translate(737,167)" font-size="27" style="fill:rgb(132, 212, 75)">hide</text>
+<text transform="translate(578,479)" font-size="27" style="fill:rgb(192, 223, 37)">dead</text>
+<text transform="translate(217,220)" font-size="27" style="fill:rgb(160, 218, 57)">kill</text>
+<text transform="translate(150,388) rotate(-90)" font-size="27" style="fill:rgb(194, 223, 35)">tunnel</text>
+<text transform="translate(672,290)" font-size="26" style="fill:rgb(41, 121, 142)">friend</text>
+<text transform="translate(176,424) rotate(-90)" font-size="26" style="fill:rgb(63, 188, 115)">leave</text>
+<text transform="translate(589,144)" font-size="26" style="fill:rgb(39, 127, 142)">hurt</text>
+<text transform="translate(737,214)" font-size="26" style="fill:rgb(67, 62, 133)">poor</text>
+<text transform="translate(643,163)" font-size="25" style="fill:rgb(62, 73, 137)">risky</text>
+<text transform="translate(252,188)" font-size="20" style="fill:rgb(39, 128, 142)">deagol</text>
+<text transform="translate(496,516)" font-size="18" style="fill:rgb(59, 81, 139)">quick</text>
+<text transform="translate(266,74)" font-size="18" style="fill:rgb(52, 182, 121)">hurry</text>
+<text transform="translate(206,158) rotate(-90)" font-size="18" style="fill:rgb(53, 94, 141)">close</text>
+<text transform="translate(345,49)" font-size="18" style="fill:rgb(48, 106, 142)">show</text>
+<text transform="translate(664,465) rotate(-90)" font-size="18" style="fill:rgb(33, 143, 141)">catch</text>
+<text transform="translate(227,491)" font-size="18" style="fill:rgb(213, 226, 26)">take</text>
+<text transform="translate(566,340)" font-size="18" style="fill:rgb(251, 231, 35)">secret</text>
+<text transform="translate(589,497)" font-size="18" style="fill:rgb(52, 97, 141)">ask</text>
+<text transform="translate(744,317)" font-size="18" style="fill:rgb(70, 11, 94)">gone</text>
+<text transform="translate(746,101)" font-size="18" style="fill:rgb(32, 163, 134)">oh</text>
+<text transform="translate(370,27)" font-size="18" style="fill:rgb(216, 226, 25)">one</text>
+<text transform="translate(585,47)" font-size="18" style="fill:rgb(72, 38, 119)">soon</text>
+<text transform="translate(305,513)" font-size="18" style="fill:rgb(119, 209, 83)">wake</text>
+<text transform="translate(691,73)" font-size="18" style="fill:rgb(246, 230, 32)">place</text>
+<text transform="translate(686,96)" font-size="18" style="fill:rgb(38, 173, 129)">climb</text>
+<text transform="translate(233,88)" font-size="18" style="fill:rgb(63, 188, 115)">heavy</text>
+<text transform="translate(742,226)" font-size="15" style="fill:rgb(31, 161, 135)">sneaking</text>
+<text transform="translate(473,146)" font-size="12" style="fill:rgb(62, 74, 137)">love</text>
+<text transform="translate(508,429)" font-size="12" style="fill:rgb(49, 104, 142)">lost</text>
+<text transform="translate(772,286)" font-size="12" style="fill:rgb(70, 8, 92)">name</text>
+<text transform="translate(433,48)" font-size="12" style="fill:rgb(178, 221, 45)">wraiths</text>
+<text transform="translate(540,141)" font-size="12" style="fill:rgb(70, 192, 111)">calling</text>
+<text transform="translate(404,536)" font-size="12" style="fill:rgb(72, 31, 112)">black</text>
+<text transform="translate(226,237)" font-size="12" style="fill:rgb(35, 169, 131)">good</text>
+<text transform="translate(742,334)" font-size="12" style="fill:rgb(69, 53, 129)">looking</text>
+<text transform="translate(330,528)" font-size="12" style="fill:rgb(31, 161, 136)">dark</text>
+<text transform="translate(738,299)" font-size="12" style="fill:rgb(59, 187, 117)">listening</text>
+<text transform="translate(181,368)" font-size="12" style="fill:rgb(170, 220, 50)">need</text>
+<text transform="translate(451,151)" font-size="12" style="fill:rgb(39, 128, 142)">eat</text>
+<text transform="translate(152,309)" font-size="12" style="fill:rgb(32, 146, 140)">taters</text>
+<text transform="translate(413,425) rotate(-90)" font-size="12" style="fill:rgb(72, 23, 105)">fish</text>
+<text transform="translate(366,165)" font-size="12" style="fill:rgb(65, 66, 135)">give</text>
+<text transform="translate(626,428)" font-size="12" style="fill:rgb(36, 170, 131)">men</text>
+<text transform="translate(292,87)" font-size="12" style="fill:rgb(41, 123, 142)">long</text>
+<text transform="translate(306,391)" font-size="12" style="fill:rgb(53, 94, 141)">make</text>
+<text transform="translate(468,413)" font-size="12" style="fill:rgb(139, 214, 70)">war</text>
+<text transform="translate(728,379)" font-size="12" style="fill:rgb(68, 58, 131)">juicy</text>
+<text transform="translate(281,512) rotate(-90)" font-size="12" style="fill:rgb(149, 216, 64)">sweet</text>
+<text transform="translate(204,378)" font-size="12" style="fill:rgb(37, 171, 130)">gollum</text>
+<text transform="translate(325,183)" font-size="12" style="fill:rgb(42, 118, 142)">pull</text>
+<text transform="translate(673,179)" font-size="12" style="fill:rgb(53, 95, 141)">time</text>
+<text transform="translate(521,50)" font-size="12" style="fill:rgb(165, 219, 54)">hobbitses</text>
+<text transform="translate(602,122)" font-size="12" style="fill:rgb(31, 149, 139)">fly</text>
+<text transform="translate(134,192)" font-size="12" style="fill:rgb(72, 32, 113)">careful</text>
+<text transform="translate(203,190)" font-size="12" style="fill:rgb(162, 218, 55)">burden</text>
+<text transform="translate(561,495)" font-size="12" style="fill:rgb(31, 153, 138)">eye</text>
+<text transform="translate(550,507)" font-size="12" style="fill:rgb(32, 163, 134)">find</text>
+<text transform="translate(483,50)" font-size="12" style="fill:rgb(165, 219, 54)">sneak</text>
+<text transform="translate(476,361)" font-size="12" style="fill:rgb(53, 183, 121)">took</text>
+<text transform="translate(600,14)" font-size="9" style="fill:rgb(210, 226, 27)">came</text>
+<text transform="translate(720,387)" font-size="9" style="fill:rgb(32, 163, 134)">swore</text>
+<text transform="translate(460,389)" font-size="9" style="fill:rgb(160, 218, 57)">serve</text>
+<text transform="translate(486,379)" font-size="9" style="fill:rgb(34, 168, 132)">call</text>
+<text transform="translate(163,433)" font-size="9" style="fill:rgb(33, 143, 141)">wings</text>
+<text transform="translate(370,390)" font-size="9" style="fill:rgb(33, 142, 141)">wanting</text>
+<text transform="translate(662,347)" font-size="9" style="fill:rgb(30, 156, 137)">another</text>
+<text transform="translate(215,263)" font-size="9" style="fill:rgb(71, 19, 101)">path</text>
+<text transform="translate(685,297)" font-size="9" style="fill:rgb(178, 221, 45)">helps</text>
+<text transform="translate(503,141)" font-size="9" style="fill:rgb(32, 146, 140)">anymore</text>
+<text transform="translate(512,415)" font-size="9" style="fill:rgb(71, 42, 122)">told</text>
+<text transform="translate(255,351)" font-size="9" style="fill:rgb(36, 170, 131)">goes</text>
+<text transform="translate(710,56)" font-size="9" style="fill:rgb(94, 201, 98)">free</text>
+<text transform="translate(634,50)" font-size="9" style="fill:rgb(61, 77, 138)">young</text>
+<text transform="translate(727,429) rotate(-90)" font-size="9" style="fill:rgb(56, 88, 140)">tender</text>
+<text transform="translate(486,448) rotate(-90)" font-size="9" style="fill:rgb(69, 53, 129)">stupid</text>
+<text transform="translate(480,31)" font-size="9" style="fill:rgb(152, 216, 62)">ruins</text>
+<text transform="translate(532,451)" font-size="9" style="fill:rgb(39, 128, 142)">eh</text>
+<text transform="translate(405,46)" font-size="9" style="fill:rgb(139, 214, 70)">spoil</text>
+<text transform="translate(655,88)" font-size="9" style="fill:rgb(194, 223, 35)">raw</text>
+<text transform="translate(385,153)" font-size="9" style="fill:rgb(72, 23, 105)">wriggling</text>
+<text transform="translate(686,48)" font-size="9" style="fill:rgb(58, 186, 118)">keep</text>
+<text transform="translate(172,326)" font-size="9" style="fill:rgb(202, 225, 31)">chips</text>
+<text transform="translate(713,105)" font-size="9" style="fill:rgb(32, 147, 140)">wicked</text>
+<text transform="translate(444,534)" font-size="9" style="fill:rgb(90, 200, 100)">servants</text>
+<text transform="translate(158,151)" font-size="9" style="fill:rgb(37, 172, 130)">sauron</text>
+<text transform="translate(552,349)" font-size="9" style="fill:rgb(52, 182, 121)">called</text>
+<text transform="translate(333,465) rotate(-90)" font-size="9" style="fill:rgb(71, 44, 122)">gathering</text>
+<text transform="translate(291,522)" font-size="9" style="fill:rgb(99, 203, 95)">armies</text>
+<text transform="translate(304,54)" font-size="9" style="fill:rgb(110, 206, 88)">ready</text>
+<text transform="translate(451,94)" font-size="9" style="fill:rgb(110, 206, 88)">last</text>
+<text transform="translate(496,8)" font-size="9" style="fill:rgb(52, 97, 141)">cover</text>
+<text transform="translate(618,153)" font-size="9" style="fill:rgb(43, 116, 142)">world</text>
+<text transform="translate(272,393)" font-size="9" style="fill:rgb(40, 124, 142)">shadow</text>
+<text transform="translate(614,347)" font-size="9" style="fill:rgb(71, 17, 100)">rock</text>
+<text transform="translate(126,334) rotate(-90)" font-size="9" style="fill:rgb(216, 226, 25)">pool</text>
+<text transform="translate(602,458) rotate(-90)" font-size="9" style="fill:rgb(43, 117, 142)">cool</text>
+<text transform="translate(203,342)" font-size="9" style="fill:rgb(59, 82, 139)">wish</text>
+<text transform="translate(651,296)" font-size="9" style="fill:rgb(42, 120, 142)">cruel</text>
+<text transform="translate(212,248)" font-size="9" style="fill:rgb(157, 217, 59)">tricksed</text>
+<text transform="translate(597,322)" font-size="9" style="fill:rgb(181, 222, 43)">business</text>
+<text transform="translate(654,402)" font-size="9" style="fill:rgb(119, 209, 83)">alone</text>
+<text transform="translate(518,439)" font-size="9" style="fill:rgb(72, 32, 113)">try</text>
+<text transform="translate(730,399)" font-size="9" style="fill:rgb(47, 108, 142)">save</text>
+<text transform="translate(496,530)" font-size="9" style="fill:rgb(57, 85, 140)">hard</text>
+<text transform="translate(517,356)" font-size="9" style="fill:rgb(50, 100, 142)">feelings</text>
+<text transform="translate(152,158)" font-size="9" style="fill:rgb(37, 133, 142)">watching</text>
+<text transform="translate(307,122)" font-size="9" style="fill:rgb(31, 152, 139)">yet</text>
+<text transform="translate(261,360)" font-size="9" style="fill:rgb(70, 10, 93)">birthday</text>
+<text transform="translate(485,461)" font-size="9" style="fill:rgb(65, 66, 135)">sleepies</text>
+<text transform="translate(709,198) rotate(-90)" font-size="9" style="fill:rgb(42, 119, 142)">lose</text>
+<text transform="translate(319,368)" font-size="9" style="fill:rgb(59, 187, 117)">silly</text>
+<text transform="translate(648,95)" font-size="9" style="fill:rgb(157, 217, 59)">safe</text>
+<text transform="translate(405,437)" font-size="9" style="fill:rgb(119, 209, 83)">thieves</text>
+<text transform="translate(184,453)" font-size="9" style="fill:rgb(51, 99, 141)">stole</text>
+<text transform="translate(727,175)" font-size="9" style="fill:rgb(221, 227, 24)">suspects</text>
+<text transform="translate(337,491)" font-size="9" style="fill:rgb(236, 229, 27)">lead</text>
+<text transform="translate(289,460)" font-size="9" style="fill:rgb(33, 142, 141)">winding</text>
+<text transform="translate(606,311)" font-size="9" style="fill:rgb(68, 59, 132)">taste</text>
+<text transform="translate(595,394)" font-size="9" style="fill:rgb(45, 178, 125)">meant</text>
+<text transform="translate(354,461)" font-size="9" style="fill:rgb(45, 113, 142)">horrid</text>
+<text transform="translate(156,342)" font-size="9" style="fill:rgb(170, 220, 50)">lies</text>
+<text transform="translate(450,461)" font-size="9" style="fill:rgb(67, 61, 132)">decent</text>
+<text transform="translate(129,178)" font-size="9" style="fill:rgb(69, 55, 129)">stop</text>
+<text transform="translate(531,8)" font-size="9" style="fill:rgb(72, 24, 106)">city</text>
+<text transform="translate(793,272)" font-size="9" style="fill:rgb(181, 222, 43)">full</text>
+<text transform="translate(386,460)" font-size="9" style="fill:rgb(49, 102, 142)">enemies</text>
+<text transform="translate(342,392)" font-size="9" style="fill:rgb(64, 189, 114)">found</text>
+<text transform="translate(571,485) rotate(-90)" font-size="9" style="fill:rgb(42, 176, 127)">far</text>
+<text transform="translate(405,487)" font-size="9" style="fill:rgb(86, 198, 103)">fall</text>
+<text transform="translate(673,467) rotate(-90)" font-size="9" style="fill:rgb(43, 117, 142)">dangerous</text>
+<text transform="translate(643,59)" font-size="9" style="fill:rgb(112, 207, 87)">done</text>
+<text transform="translate(366,535)" font-size="9" style="fill:rgb(70, 7, 90)">carries</text>
+<text transform="translate(780,175)" font-size="9" style="fill:rgb(72, 40, 120)">polite</text>
+<text transform="translate(562,435)" font-size="9" style="fill:rgb(64, 189, 114)">nobody</text>
+<text transform="translate(173,128)" font-size="9" style="fill:rgb(59, 81, 139)">elf</text>
+<text transform="translate(178,358)" font-size="9" style="fill:rgb(31, 149, 139)">bread</text>
+<text transform="translate(240,500)" font-size="9" style="fill:rgb(70, 11, 94)">crumbs</text>
+<text transform="translate(286,442) rotate(-90)" font-size="9" style="fill:rgb(62, 76, 138)">jacketses</text>
+<text transform="translate(302,193)" font-size="9" style="fill:rgb(32, 146, 140)">seen</text>
+<text transform="translate(115,267) rotate(-90)" font-size="9" style="fill:rgb(147, 215, 65)">stuffing</text>
+<text transform="translate(659,32)" font-size="9" style="fill:rgb(74, 193, 109)">face</text>
+<text transform="translate(640,170)" font-size="9" style="fill:rgb(54, 92, 141)">inside</text>
+<text transform="translate(278,202)" font-size="9" style="fill:rgb(192, 223, 37)">orcses'</text>
+<text transform="translate(531,459)" font-size="9" style="fill:rgb(32, 147, 140)">filth</text>
+<text transform="translate(483,14)" font-size="9" style="fill:rgb(39, 173, 129)">orcses</text>
+<text transform="translate(544,101) rotate(-90)" font-size="9" style="fill:rgb(59, 187, 117)">sometimes</text>
+<text transform="translate(371,90) rotate(-90)" font-size="9" style="fill:rgb(96, 202, 96)">naughty</text>
+<text transform="translate(530,394)" font-size="9" style="fill:rgb(59, 187, 117)">little</text>
+<text transform="translate(596,349)" font-size="9" style="fill:rgb(48, 105, 142)">cry</text>
+<text transform="translate(624,116)" font-size="9" style="fill:rgb(68, 59, 132)">caught</text>
+<text transform="translate(473,92)" font-size="9" style="fill:rgb(33, 145, 140)">web</text>
+<text transform="translate(581,508)" font-size="9" style="fill:rgb(181, 222, 43)">eaten</text>
+<text transform="translate(173,246) rotate(-90)" font-size="9" style="fill:rgb(49, 104, 142)">promised</text>
+<text transform="translate(722,272)" font-size="9" style="fill:rgb(33, 166, 133)">believe</text>
+<text transform="translate(303,149)" font-size="9" style="fill:rgb(55, 90, 140)">made</text>
+</svg>

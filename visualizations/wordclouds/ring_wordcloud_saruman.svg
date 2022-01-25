@@ -1,0 +1,205 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="543">
+<style>@font-face{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;src:url("data:application/font-woff;charset=utf-8;base64,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")format("woff");}</style>
+<style>text{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;}</style>
+<rect width="100%" height="100%" style="fill:white"></rect>
+<text transform="translate(351,106)" font-size="85" style="fill:rgb(96, 202, 96)">gandalf</text>
+<text transform="translate(300,450)" font-size="72" style="fill:rgb(68, 59, 132)">sauron</text>
+<text transform="translate(323,490)" font-size="67" style="fill:rgb(35, 136, 142)">power</text>
+<text transform="translate(191,168)" font-size="67" style="fill:rgb(49, 102, 142)">know</text>
+<text transform="translate(545,391)" font-size="67" style="fill:rgb(82, 197, 105)">rohan</text>
+<text transform="translate(775,297) rotate(-90)" font-size="61" style="fill:rgb(33, 142, 141)">think</text>
+<text transform="translate(553,434)" font-size="55" style="fill:rgb(68, 59, 132)">earth</text>
+<text transform="translate(658,338)" font-size="55" style="fill:rgb(178, 221, 45)">fall</text>
+<text transform="translate(185,437)" font-size="50" style="fill:rgb(48, 106, 142)">ring</text>
+<text transform="translate(124,228)" font-size="50" style="fill:rgb(46, 111, 142)">lord</text>
+<text transform="translate(595,137)" font-size="44" style="fill:rgb(105, 205, 91)">great</text>
+<text transform="translate(249,106)" font-size="44" style="fill:rgb(244, 230, 30)">deep</text>
+<text transform="translate(117,289)" font-size="44" style="fill:rgb(52, 97, 141)">men</text>
+<text transform="translate(523,483)" font-size="43" style="fill:rgb(31, 159, 136)">king</text>
+<text transform="translate(805,263) rotate(-90)" font-size="38" style="fill:rgb(42, 119, 142)">doom</text>
+<text transform="translate(356,518)" font-size="36" style="fill:rgb(69, 55, 129)">isengard</text>
+<text transform="translate(111,247)" font-size="36" style="fill:rgb(31, 160, 136)">come</text>
+<text transform="translate(243,491)" font-size="36" style="fill:rgb(108, 205, 90)">old</text>
+<text transform="translate(419,137)" font-size="36" style="fill:rgb(241, 229, 29)">friend</text>
+<text transform="translate(361,399)" font-size="36" style="fill:rgb(229, 228, 25)">found</text>
+<text transform="translate(139,355) rotate(-90)" font-size="36" style="fill:rgb(69, 56, 130)">see</text>
+<text transform="translate(376,43)" font-size="34" style="fill:rgb(71, 14, 97)">halfling</text>
+<text transform="translate(148,389)" font-size="34" style="fill:rgb(44, 177, 126)">take</text>
+<text transform="translate(640,161)" font-size="34" style="fill:rgb(186, 222, 40)">none</text>
+<text transform="translate(249,403)" font-size="28" style="fill:rgb(189, 223, 38)">mordor</text>
+<text transform="translate(242,190)" font-size="27" style="fill:rgb(56, 89, 140)">shadow</text>
+<text transform="translate(691,84)" font-size="27" style="fill:rgb(60, 80, 139)">upon</text>
+<text transform="translate(543,34)" font-size="26" style="fill:rgb(66, 65, 134)">middle</text>
+<text transform="translate(145,190)" font-size="26" style="fill:rgb(38, 130, 142)">fear</text>
+<text transform="translate(496,380)" font-size="26" style="fill:rgb(40, 125, 142)">one</text>
+<text transform="translate(187,453)" font-size="20" style="fill:rgb(192, 223, 37)">victory</text>
+<text transform="translate(208,275) rotate(-90)" font-size="20" style="fill:rgb(37, 131, 142)">now</text>
+<text transform="translate(373,156)" font-size="20" style="fill:rgb(37, 172, 130)">man</text>
+<text transform="translate(586,450)" font-size="19" style="fill:rgb(72, 23, 105)">something</text>
+<text transform="translate(214,123)" font-size="19" style="fill:rgb(40, 174, 128)">world</text>
+<text transform="translate(578,335)" font-size="19" style="fill:rgb(33, 165, 133)">burn</text>
+<text transform="translate(159,306)" font-size="19" style="fill:rgb(71, 45, 123)">war</text>
+<text transform="translate(360,534)" font-size="19" style="fill:rgb(41, 121, 142)">horse</text>
+<text transform="translate(481,395)" font-size="19" style="fill:rgb(137, 213, 72)">gondor</text>
+<text transform="translate(677,291)" font-size="19" style="fill:rgb(137, 213, 72)">helm</text>
+<text transform="translate(548,133)" font-size="19" style="fill:rgb(67, 61, 132)">land</text>
+<text transform="translate(113,261)" font-size="16" style="fill:rgb(205, 225, 29)">mountain</text>
+<text transform="translate(696,174)" font-size="16" style="fill:rgb(49, 103, 142)">hour</text>
+<text transform="translate(289,61)" font-size="16" style="fill:rgb(101, 203, 94)">counsel</text>
+<text transform="translate(696,194)" font-size="16" style="fill:rgb(35, 137, 142)">yet</text>
+<text transform="translate(287,122)" font-size="16" style="fill:rgb(57, 85, 140)">love</text>
+<text transform="translate(167,402)" font-size="16" style="fill:rgb(96, 202, 96)">time</text>
+<text transform="translate(274,74)" font-size="16" style="fill:rgb(115, 208, 86)">strength</text>
+<text transform="translate(728,106)" font-size="16" style="fill:rgb(251, 231, 35)">form</text>
+<text transform="translate(249,207)" font-size="16" style="fill:rgb(72, 31, 112)">lost</text>
+<text transform="translate(383,374)" font-size="16" style="fill:rgb(72, 26, 108)">within</text>
+<text transform="translate(321,503) rotate(-90)" font-size="16" style="fill:rgb(194, 223, 35)">flesh</text>
+<text transform="translate(172,315)" font-size="16" style="fill:rgb(31, 161, 136)">eye</text>
+<text transform="translate(538,506)" font-size="16" style="fill:rgb(241, 229, 29)">flame</text>
+<text transform="translate(141,346)" font-size="16" style="fill:rgb(39, 173, 129)">soon</text>
+<text transform="translate(282,511)" font-size="16" style="fill:rgb(32, 146, 140)">seen</text>
+<text transform="translate(642,51)" font-size="16" style="fill:rgb(44, 177, 126)">use</text>
+<text transform="translate(534,350)" font-size="16" style="fill:rgb(71, 19, 101)">riders</text>
+<text transform="translate(730,411) rotate(-90)" font-size="16" style="fill:rgb(69, 4, 87)">kill</text>
+<text transform="translate(790,331) rotate(-90)" font-size="16" style="fill:rgb(37, 133, 142)">carries</text>
+<text transform="translate(762,384) rotate(-90)" font-size="16" style="fill:rgb(76, 194, 108)">must</text>
+<text transform="translate(153,153)" font-size="16" style="fill:rgb(234, 229, 26)">join</text>
+<text transform="translate(555,51)" font-size="16" style="fill:rgb(44, 115, 142)">pain</text>
+<text transform="translate(510,14)" font-size="16" style="fill:rgb(44, 114, 142)">work</text>
+<text transform="translate(355,141)" font-size="16" style="fill:rgb(47, 107, 142)">embrace</text>
+<text transform="translate(684,271)" font-size="16" style="fill:rgb(147, 215, 65)">death</text>
+<text transform="translate(636,468)" font-size="16" style="fill:rgb(248, 230, 33)">lead</text>
+<text transform="translate(648,432) rotate(-90)" font-size="16" style="fill:rgb(58, 186, 118)">go</text>
+<text transform="translate(209,247)" font-size="16" style="fill:rgb(88, 199, 101)">wake</text>
+<text transform="translate(197,467)" font-size="16" style="fill:rgb(69, 53, 129)">cruel</text>
+<text transform="translate(464,531)" font-size="16" style="fill:rgb(234, 229, 26)">redhorn</text>
+<text transform="translate(637,76)" font-size="16" style="fill:rgb(218, 227, 25)">may</text>
+<text transform="translate(359,169)" font-size="16" style="fill:rgb(55, 184, 120)">horn</text>
+<text transform="translate(399,55)" font-size="15" style="fill:rgb(32, 164, 134)">bloodstained</text>
+<text transform="translate(292,524)" font-size="15" style="fill:rgb(58, 83, 139)">alive</text>
+<text transform="translate(609,316)" font-size="15" style="fill:rgb(41, 121, 142)">stand</text>
+<text transform="translate(641,335)" font-size="15" style="fill:rgb(72, 35, 116)">two</text>
+<text transform="translate(141,355)" font-size="12" style="fill:rgb(35, 136, 142)">together</text>
+<text transform="translate(498,475)" font-size="12" style="fill:rgb(53, 95, 141)">new</text>
+<text transform="translate(731,193)" font-size="12" style="fill:rgb(49, 102, 142)">rise</text>
+<text transform="translate(535,512)" font-size="12" style="fill:rgb(127, 211, 78)">orc</text>
+<text transform="translate(641,31)" font-size="12" style="fill:rgb(72, 27, 109)">want</text>
+<text transform="translate(425,148)" font-size="12" style="fill:rgb(72, 27, 109)">ready</text>
+<text transform="translate(339,43)" font-size="12" style="fill:rgb(67, 61, 132)">march</text>
+<text transform="translate(212,102)" font-size="12" style="fill:rgb(35, 169, 131)">night</text>
+<text transform="translate(703,348)" font-size="12" style="fill:rgb(186, 222, 40)">forest</text>
+<text transform="translate(457,363)" font-size="12" style="fill:rgb(52, 96, 141)">begin</text>
+<text transform="translate(595,348)" font-size="12" style="fill:rgb(234, 229, 26)">mine</text>
+<text transform="translate(595,59)" font-size="12" style="fill:rgb(32, 164, 134)">fool</text>
+<text transform="translate(495,358)" font-size="11" style="fill:rgb(72, 20, 103)">greyhame</text>
+<text transform="translate(711,59)" font-size="11" style="fill:rgb(236, 229, 27)">many</text>
+<text transform="translate(803,310) rotate(-90)" font-size="11" style="fill:rgb(37, 132, 142)">theoden</text>
+<text transform="translate(691,96)" font-size="11" style="fill:rgb(34, 167, 133)">peace</text>
+<text transform="translate(416,534)" font-size="11" style="fill:rgb(197, 224, 33)">key</text>
+<text transform="translate(160,164)" font-size="11" style="fill:rgb(45, 178, 125)">never</text>
+<text transform="translate(567,143)" font-size="11" style="fill:rgb(144, 215, 67)">tell</text>
+<text transform="translate(178,435) rotate(-90)" font-size="11" style="fill:rgb(50, 182, 122)">free</text>
+<text transform="translate(618,97) rotate(-90)" font-size="8" style="fill:rgb(72, 20, 103)">smoke</text>
+<text transform="translate(690,301)" font-size="8" style="fill:rgb(66, 63, 133)">grows</text>
+<text transform="translate(200,366)" font-size="8" style="fill:rgb(72, 36, 117)">late</text>
+<text transform="translate(627,396)" font-size="8" style="fill:rgb(34, 168, 132)">grey</text>
+<text transform="translate(775,155)" font-size="8" style="fill:rgb(56, 89, 140)">rides</text>
+<text transform="translate(498,402)" font-size="8" style="fill:rgb(37, 132, 142)">seeking</text>
+<text transform="translate(584,6)" font-size="8" style="fill:rgb(129, 211, 77)">sure</text>
+<text transform="translate(546,398)" font-size="8" style="fill:rgb(32, 146, 140)">wit</text>
+<text transform="translate(649,98) rotate(-90)" font-size="8" style="fill:rgb(31, 150, 139)">leaf</text>
+<text transform="translate(655,348)" font-size="8" style="fill:rgb(55, 90, 140)">clearly</text>
+<text transform="translate(722,150)" font-size="8" style="fill:rgb(210, 226, 27)">slowed</text>
+<text transform="translate(271,360)" font-size="8" style="fill:rgb(90, 200, 100)">mind</text>
+<text transform="translate(653,171)" font-size="8" style="fill:rgb(42, 118, 142)">regained</text>
+<text transform="translate(331,426)" font-size="8" style="fill:rgb(31, 160, 136)">much</text>
+<text transform="translate(420,155)" font-size="8" style="fill:rgb(74, 193, 109)">former</text>
+<text transform="translate(729,222)" font-size="8" style="fill:rgb(53, 183, 121)">physical</text>
+<text transform="translate(364,54)" font-size="8" style="fill:rgb(178, 221, 45)">spirit</text>
+<text transform="translate(518,143)" font-size="8" style="fill:rgb(49, 103, 142)">potency</text>
+<text transform="translate(448,13)" font-size="8" style="fill:rgb(31, 149, 139)">concealed</text>
+<text transform="translate(241,216)" font-size="8" style="fill:rgb(34, 168, 132)">fortress</text>
+<text transform="translate(170,129)" font-size="8" style="fill:rgb(84, 197, 104)">gaze</text>
+<text transform="translate(180,335)" font-size="8" style="fill:rgb(55, 184, 120)">pierces</text>
+<text transform="translate(423,406)" font-size="8" style="fill:rgb(71, 46, 124)">cloud</text>
+<text transform="translate(161,171)" font-size="8" style="fill:rgb(53, 95, 141)">speak</text>
+<text transform="translate(386,406)" font-size="8" style="fill:rgb(241, 229, 29)">lidless</text>
+<text transform="translate(558,491)" font-size="8" style="fill:rgb(45, 178, 125)">wreathed</text>
+<text transform="translate(320,369)" font-size="8" style="fill:rgb(72, 37, 118)">gathering</text>
+<text transform="translate(606,90) rotate(-90)" font-size="8" style="fill:rgb(142, 214, 69)">evil</text>
+<text transform="translate(165,197)" font-size="8" style="fill:rgb(49, 104, 142)">summoned</text>
+<text transform="translate(277,457)" font-size="8" style="fill:rgb(63, 188, 115)">army</text>
+<text transform="translate(233,354)" font-size="8" style="fill:rgb(144, 215, 67)">enough</text>
+<text transform="translate(472,144)" font-size="8" style="fill:rgb(54, 92, 141)">assault</text>
+<text transform="translate(214,185)" font-size="8" style="fill:rgb(58, 83, 139)">later</text>
+<text transform="translate(501,114)" font-size="8" style="fill:rgb(48, 105, 142)">forces</text>
+<text transform="translate(242,498)" font-size="8" style="fill:rgb(31, 159, 136)">already</text>
+<text transform="translate(563,396)" font-size="8" style="fill:rgb(41, 121, 142)">moving</text>
+<text transform="translate(256,228)" font-size="8" style="fill:rgb(50, 100, 142)">nine</text>
+<text transform="translate(690,447)" font-size="8" style="fill:rgb(41, 121, 142)">left</text>
+<text transform="translate(635,475)" font-size="8" style="fill:rgb(56, 88, 140)">minas</text>
+<text transform="translate(205,475)" font-size="8" style="fill:rgb(37, 132, 142)">morgul</text>
+<text transform="translate(233,382)" font-size="8" style="fill:rgb(31, 161, 136)">crossed</text>
+<text transform="translate(710,245)" font-size="8" style="fill:rgb(31, 161, 136)">river</text>
+<text transform="translate(762,167)" font-size="8" style="fill:rgb(127, 211, 78)">isen</text>
+<text transform="translate(548,114)" font-size="8" style="fill:rgb(218, 227, 25)">midsummer</text>
+<text transform="translate(772,129)" font-size="8" style="fill:rgb(58, 83, 139)">eve</text>
+<text transform="translate(242,431) rotate(-90)" font-size="8" style="fill:rgb(64, 189, 114)">disguised</text>
+<text transform="translate(352,529) rotate(-90)" font-size="8" style="fill:rgb(149, 216, 64)">black</text>
+<text transform="translate(632,483)" font-size="8" style="fill:rgb(31, 159, 136)">find</text>
+<text transform="translate(113,309) rotate(-90)" font-size="8" style="fill:rgb(72, 35, 116)">seriously</text>
+<text transform="translate(462,538)" font-size="8" style="fill:rgb(101, 203, 94)">hobbit</text>
+<text transform="translate(656,180)" font-size="8" style="fill:rgb(31, 149, 139)">contend</text>
+<text transform="translate(216,255)" font-size="8" style="fill:rgb(58, 83, 139)">wise</text>
+<text transform="translate(398,113)" font-size="8" style="fill:rgb(65, 66, 135)">gave</text>
+<text transform="translate(289,198)" font-size="8" style="fill:rgb(39, 173, 129)">chance</text>
+<text transform="translate(139,313)" font-size="8" style="fill:rgb(70, 7, 90)">aiding</text>
+<text transform="translate(747,399) rotate(-90)" font-size="8" style="fill:rgb(47, 180, 124)">willingly</text>
+<text transform="translate(637,38)" font-size="8" style="fill:rgb(64, 189, 114)">elected</text>
+<text transform="translate(748,312)" font-size="8" style="fill:rgb(248, 230, 33)">way</text>
+<text transform="translate(140,333)" font-size="8" style="fill:rgb(72, 37, 118)">command</text>
+<text transform="translate(352,177)" font-size="8" style="fill:rgb(192, 223, 37)">rip</text>
+<text transform="translate(119,210)" font-size="8" style="fill:rgb(54, 92, 141)">ill</text>
+<text transform="translate(567,512)" font-size="8" style="fill:rgb(66, 190, 113)">turn</text>
+<text transform="translate(596,155)" font-size="8" style="fill:rgb(43, 117, 142)">deserves</text>
+<text transform="translate(145,397) rotate(-90)" font-size="8" style="fill:rgb(37, 171, 130)">another</text>
+<text transform="translate(483,128) rotate(-90)" font-size="8" style="fill:rgb(84, 197, 104)">destruction</text>
+<text transform="translate(639,296)" font-size="8" style="fill:rgb(44, 113, 142)">chosen</text>
+<text transform="translate(708,46)" font-size="8" style="fill:rgb(68, 59, 132)">try</text>
+<text transform="translate(452,111) rotate(-90)" font-size="8" style="fill:rgb(72, 38, 119)">caradhras</text>
+<text transform="translate(445,447)" font-size="8" style="fill:rgb(61, 188, 116)">fails</text>
+<text transform="translate(357,408) rotate(-90)" font-size="8" style="fill:rgb(70, 48, 126)">defeats</text>
+<text transform="translate(503,489)" font-size="8" style="fill:rgb(45, 178, 125)">risk</text>
+<text transform="translate(433,452) rotate(-90)" font-size="8" style="fill:rgb(57, 85, 140)">dangerous</text>
+<text transform="translate(763,350)" font-size="8" style="fill:rgb(40, 174, 128)">road</text>
+<text transform="translate(744,324)" font-size="8" style="fill:rgb(72, 38, 119)">enemy</text>
+<text transform="translate(454,406)" font-size="8" style="fill:rgb(31, 160, 136)">heads</text>
+<text transform="translate(208,194)" font-size="8" style="fill:rgb(59, 82, 139)">moria</text>
+<text transform="translate(207,344)" font-size="8" style="fill:rgb(71, 16, 99)">dwarves</text>
+<text transform="translate(737,93)" font-size="8" style="fill:rgb(117, 208, 84)">delved</text>
+<text transform="translate(621,432) rotate(-90)" font-size="8" style="fill:rgb(86, 198, 103)">greedily</text>
+<text transform="translate(210,263)" font-size="8" style="fill:rgb(70, 48, 126)">awoke</text>
+<text transform="translate(574,476) rotate(-90)" font-size="8" style="fill:rgb(221, 227, 24)">darkness</text>
+<text transform="translate(588,500)" font-size="8" style="fill:rgb(115, 208, 86)">khazad</text>
+<text transform="translate(192,290)" font-size="8" style="fill:rgb(246, 230, 32)">dôm</text>
+<text transform="translate(164,366)" font-size="8" style="fill:rgb(251, 231, 35)">first</text>
+<text transform="translate(198,230)" font-size="8" style="fill:rgb(108, 205, 90)">came</text>
+<text transform="translate(398,128)" font-size="8" style="fill:rgb(117, 208, 84)">elves</text>
+<text transform="translate(446,429)" font-size="8" style="fill:rgb(72, 41, 121)">taken</text>
+<text transform="translate(653,287)" font-size="8" style="fill:rgb(36, 170, 131)">dark</text>
+<text transform="translate(505,100) rotate(-90)" font-size="8" style="fill:rgb(160, 218, 57)">tortured</text>
+<text transform="translate(556,102) rotate(-90)" font-size="8" style="fill:rgb(69, 4, 87)">mutilated</text>
+<text transform="translate(533,521)" font-size="8" style="fill:rgb(37, 131, 142)">ruined</text>
+<text transform="translate(387,450) rotate(-90)" font-size="8" style="fill:rgb(72, 193, 110)">terrible</text>
+<text transform="translate(700,255)" font-size="8" style="fill:rgb(33, 165, 133)">life</text>
+<text transform="translate(486,496) rotate(-90)" font-size="8" style="fill:rgb(65, 68, 135)">perfected</text>
+<text transform="translate(163,429) rotate(-90)" font-size="8" style="fill:rgb(49, 181, 123)">fighting</text>
+<text transform="translate(726,329) rotate(-90)" font-size="8" style="fill:rgb(60, 80, 139)">uruk</text>
+<text transform="translate(455,114)" font-size="8" style="fill:rgb(127, 211, 78)">hai</text>
+<text transform="translate(561,372)" font-size="8" style="fill:rgb(147, 215, 65)">serve</text>
+<text transform="translate(438,536)" font-size="8" style="fill:rgb(35, 137, 142)">hunt</text>
+<text transform="translate(654,86)" font-size="8" style="fill:rgb(71, 17, 100)">stop</text>
+<text transform="translate(326,123)" font-size="8" style="fill:rgb(229, 228, 25)">taste</text>
+<text transform="translate(701,66)" font-size="8" style="fill:rgb(72, 22, 104)">value</text>
+<text transform="translate(636,59)" font-size="8" style="fill:rgb(168, 219, 52)">bring</text>
+</svg>
